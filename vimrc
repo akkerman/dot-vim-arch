@@ -18,3 +18,6 @@ let g:netrw_liststyle = 3 " treeview
 set path+=**
 set wildmenu
 set wildmode=full
+
+
+syntax on
