@@ -20,4 +20,6 @@ set wildmenu
 set wildmode=full
 
 
+set laststatus=2
+set statusline=%f\ -\ %y
 syntax on
