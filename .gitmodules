@@ -16,3 +16,6 @@
 [submodule "pack/plugins/start/vim-sensible"]
 	path = pack/plugins/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "pack/plugins/start/iceberg.vim"]
+	path = pack/plugins/start/iceberg.vim
+	url = https://github.com/cocopon/iceberg.vim.git
