@@ -19,3 +19,6 @@
 [submodule "pack/plugins/start/iceberg.vim"]
 	path = pack/plugins/start/iceberg.vim
 	url = https://github.com/cocopon/iceberg.vim.git
+[submodule "pack/plugins/start/command-t"]
+	path = pack/plugins/start/command-t
+	url = https://github.com/wincent/command-t.git
