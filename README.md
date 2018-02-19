@@ -8,4 +8,6 @@ A custom .vimrc is normally stored at ~/.vimrc, but VIM (from 7.4) also understa
 
 caveat: if a ~/.vimrc is also used vim uses that one. see :help vimrc
 
+## generate help
 
+`find . -name doc -exec vim '+helptags {}' +qall \;`
